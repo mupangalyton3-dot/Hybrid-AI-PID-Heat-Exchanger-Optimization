@@ -36,7 +36,7 @@ with classical PID control to optimize heat exchanger efficiency under dynamic c
 
 ## 🖼️ Sample Output
 
-![Results](results/optimization.png)
+![Results](results/ai_+_pid.png)
 
 ---
 
